@@ -10,10 +10,14 @@ It consists of 1599 red wine samples and 4898 white wine samples, with a total o
 Number of Instances: 6497
 Number of Attributes: 12 (11 input variables and 1 output variable)
 # Attribute Information:
- Fixed acidity
+ Fixed acidity 
+ 
  Volatile acidity
+ 
  Citric acid
+ 
  Residual sugar
+ 
  Chlorides
  Free sulfur dioxide
  Total sulfur dioxide
