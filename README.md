@@ -19,11 +19,19 @@ Number of Attributes: 12 (11 input variables and 1 output variable)
  Residual sugar
  
  Chlorides
+ 
  Free sulfur dioxide
+ 
  Total sulfur dioxide
+ 
  Density
+ 
  pH
+ 
  Sulphates
+ 
  Alcohol
+ 
  Quality (output variable, score between 0 and 10)
+ 
 Missing Attribute Values: None
